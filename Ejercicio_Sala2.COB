@@ -5,7 +5,7 @@
       * Tectonics: cobc
       ******************************************************************
        IDENTIFICATION DIVISION.
-       PROGRAM-ID. Ejercicio-Sala2.
+       PROGRAM-ID. Cecilia_Olmos.
        ENVIRONMENT DIVISION.
        CONFIGURATION SECTION. SPECIAL-NAMES. DECIMAL-POINT IS COMMA.
        INPUT-OUTPUT SECTION.
@@ -294,4 +294,4 @@
 
            DISPLAY lin-val-error.
 
-           END PROGRAM Ejercicio-Sala2.
+           END PROGRAM Cecilia_Olmos.
